@@ -8,7 +8,7 @@
 
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielhfalcao&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielhfalcao&layout=compact)](https://github.com/Gabrielhfalcao/github-readme-stats)
 
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
