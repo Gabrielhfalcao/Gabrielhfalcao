@@ -2,8 +2,7 @@
 
 
 - 🌱 I’m currently learning front-ent/Web Development.
-- 🔭 I’m currently looking for new Chalenges and solve many problems
-- 👯 I’m looking to collaborate on development of Web sites
+- 🔭 I’m currently looking for new chalenges and solve problems.
 
  ##
  
