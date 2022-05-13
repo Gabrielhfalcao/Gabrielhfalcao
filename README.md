@@ -4,7 +4,10 @@
 - 🌱 I’m currently learning front-ent/Web Development.
 - 🔭 I’m currently looking for new Chalenges and solve many problems
 - 👯 I’m looking to collaborate on development of Web sites
-- 🤔 I’m looking for help with ...
+
+ ##
+ 
+ <div> <h4>About Me:</h4> </div>
 
 <div align="center">
   <a href="https://github.com/Gabrielhfalcao">
