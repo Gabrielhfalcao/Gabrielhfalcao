@@ -1,7 +1,7 @@
 ### Hi there! I'm Gabriel Falcão! 👋
 
 
-- 🌱 I’m currently learning front-ent/Web Development.
+- 🌱 I’m currently learning front-ent/Web Developmentcand Data Science/Analitics.
 - 🔭 I’m currently looking for new chalenges and solve problems.
 
  ##
