@@ -29,6 +29,7 @@
 </div>
  
 <div> 
+    <a href="http://www.linkedin.com/in/gabriel-h-falcao" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" target="_blank"></a>
     <a href="http://www.linkedin.com/in/gabriel-h-falcao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabrielfalchonorato18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gabrielhonoratofalcao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
