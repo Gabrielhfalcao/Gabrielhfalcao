@@ -17,7 +17,7 @@ Welcome to my github profile, I am a computer science student with one year of e
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielhfalcao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
- <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+ <img align="center" alt="Gabriel-HTML" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://www.svgrepo.com/show/473611/flask.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
