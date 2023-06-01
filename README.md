@@ -1,5 +1,6 @@
 ### Hi there! I'm Gabriel Falcão! 👋
 
+Welcome to my github profile, I am a computer science student with one year of experience as an intern in Systems Development at Banco do Nordeste do Brasil, where I had access to Web Development, Database queries and development of ETL solutions .
 
 - 🌱 I’m currently learning Web Development and Data Science/Analitics.
 - 🔭 I’m currently looking for new chalenges and solve problems.
