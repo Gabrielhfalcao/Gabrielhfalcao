@@ -19,7 +19,7 @@ Welcome to my github profile, I am a computer science student with one year of e
 <div style="display: inline_block"><br>
  <img align="center" alt="Gabriel-HTML" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
  <img align="center" alt="Gabriel-HTML" height="30" src="https://pandas.pydata.org/static/img/pandas_mark.svg">
- <img align="center" alt="Gabriel-HTML" height="60" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg">
+ <img align="center" alt="Gabriel-HTML" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg">
  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://www.svgrepo.com/show/473611/flask.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
